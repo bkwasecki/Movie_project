@@ -7,7 +7,7 @@ It uses open [The Movie Database API] (https://www.themoviedb.org/documentation/
 ![](/print_screen/person-demo.png?raw=true)
 
 ## Live Demo
-[TMDb Movie App] (https://bkwasecki.github.io/Movie-project/)
+[TMDb Movie App] (https://bkwasecki.github.io/Movie_project/)
 
 ## Features
 
