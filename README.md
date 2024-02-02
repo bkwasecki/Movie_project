@@ -14,7 +14,7 @@ It uses open [The Movie Database API] (https://www.themoviedb.org/documentation/
 * List popular movies and actors
 * Search movies by title
 * Movies slider on the main page
-* View detail movie info including poster, casts, and rating
+* View detail movie info including posters, casts, and rating
 
 ## Technical Notes
 
